@@ -1,4 +1,4 @@
-# Projeto 
+# Synthesi 
 
 ![sqlutions logo](https://github.com/user-attachments/assets/4884e8b3-b59a-45ba-ad13-13faa8d4d9b3)
 
