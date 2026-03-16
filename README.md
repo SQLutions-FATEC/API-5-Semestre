@@ -28,9 +28,9 @@ We decided to build a web application to centralize, transform, and organize all
 
 |Sprint|Forecast|Status|History|
 |---|---|---|---|
-|01|09/08/2025 to 09/28/2025|Current Stage|In Progress|
-|02|10/06/2025 to 10/26/2025|Future Stage|Future Stage|
-|03|11/03/2025 to 11/23/2025|Future Stage|Future Stage|
+|01|03/16/2025 to 04/05/2025|Current Stage|In Progress|
+|02|04/23/2025 to 05/03/2025|Future Stage|Future Stage|
+|03|05/11/2025 to 05/31/2025|Future Stage|Future Stage|
 
 [→ Back to top](https://www.google.com/search?q=%23synthesi)
 
