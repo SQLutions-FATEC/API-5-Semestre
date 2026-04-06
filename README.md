@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[The Challenge(#-the-challenge) | [Backlogs and User Stories](#-backlogs--user-stories) | [Thechnologies](#%EF%B8%8F-technologies) | [Team](#-team)
+[The Challenge(#-the-challenge) | [Backlogs and User Stories](#-backlogs--user-stories) | [Technologies](#%EF%B8%8F-technologies) | [Team](#-team)
 
 </div>
 
@@ -28,8 +28,8 @@ We decided to build a web application to centralize, transform, and organize all
 
 |Sprint|Forecast|Status|History|
 |---|---|---|---|
-|01|03/16/2025 to 04/05/2025|Current Stage|In Progress|
-|02|04/23/2025 to 05/03/2025|Future Stage|Future Stage|
+|01|03/16/2025 to 04/05/2025|Completed Stage|Complete|
+|02|04/23/2025 to 05/03/2025|Current Stage|Planning|
 |03|05/11/2025 to 05/31/2025|Future Stage|Future Stage|
 
 [→ Back to top](https://www.google.com/search?q=%23synthesi)
