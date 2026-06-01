@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[The Challenge(#-the-challenge) | [Backlogs and User Stories](#-backlogs--user-stories) | [Technologies](#%EF%B8%8F-technologies) | [Team](#-team)
+[The Challenge](#-the-challenge) | [Backlogs and User Stories](#-backlogs--user-stories) | [Technologies](#%EF%B8%8F-technologies) | [Team](#-team)
 
 </div>
 
@@ -23,16 +23,20 @@ The client reported that a large amount of data regarding program projects. this
 ---
 
 We decided to build a web application to centralize, transform, and organize all project data using Data Warehouse strategies.
+Our project involves, a intuitive project and program selector, general view of the project with information about a variety of sectors, like materials used in the project, total cost and tasks.
+We also offer a way to acompany any purchases or solicitations to purchase materials made towards the project.
+Along with a page to see project inventory and if the stock meets demands of other material orders.
+
 
 ### 🏁 Sprint Deliverables
 
 |Sprint|Forecast|Status|History|
 |---|---|---|---|
 |01|03/16/2025 to 04/05/2025|Completed Stage|Complete|
-|02|04/23/2025 to 05/03/2025|Current Stage|Planning|
-|03|05/11/2025 to 05/31/2025|Future Stage|Future Stage|
+|02|04/23/2025 to 05/03/2025|Completed Stage|Complete|
+|03|05/11/2025 to 05/31/2025|Future Stage|Planning|
 
-[→ Back to top](https://www.google.com/search?q=%23synthesi)
+[→ Back to top](#synthesi)
 
 ## 🎯 Backlogs & User Stories
 
@@ -61,15 +65,19 @@ We decided to build a web application to centralize, transform, and organize all
 
 ---
 
-|Rank|Priority|User Story|Estimate|Sprint|Requirements|
-|---|---|---|---|---|---|
-|1|High|US-1 - As a manager, I want to see the total project costs (material expenses and hours worked) to save time researching and calculating costs for each project.|13|1|RF-2<br><br>  <br><br>RF-6|
-|2|High|US-2 - As a manager, I would like to see purchasing data (request, order, receipt) for each project to save time in identifying late materials and amounts spent.|13|1|RF-7<br><br>  <br><br>RF-8<br><br>  <br><br>RF-10|
-|3|High|US-7 - As a manager, I would like a page that displays all centralized programs and projects, allowing filtering by program and searching for a specific project to save time when navigating the program.|3|2|RF-3<br><br>  <br><br>RF-4<br><br>  <br><br>RF-5|
-|4|High|US-3 - As a manager, I want to see the material inventory data for each project to save time and effort when checking the stock for purchased materials and if there are inconsistent records (missing materials).|13*|2|RF-9|
-|5|Medium|US-4 - As a manager, I would like to see supplier data to help plan lead times and save time and money by choosing a reliable supplier with lower prices.|13*|2|RF-13|
-|6|Medium|US-6 - As a manager, I would like to import data from CSV spreadsheets about new projects to save time and team effort when entering this data.|5*||RF-1<br><br>  <br><br>RF-14|
-|7|Low|US-5 - As a manager, I would like to see the status of project tasks to easily understand the state and progress of each project, saving time spent researching and consulting other team members.|8*|3|RF-11<br><br>  <br><br>RF-12|
+
+| Rank | Priodidade | User Story                                                                                                                                                                                                                  | Estimativa | Sprint |
+| ---- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ |
+| 1    | Alta       | [[US-1]] - Como gestor quero ver os gastos totais com o projeto (Gastos com materiais e horas trabalhadas), para economizar tempo pesquisando e calculando os custos de cada projeto                                        | 13         | 1      |
+| 2    | Alta       | [[US-2]] - Como gestor gostaria de acompanhar o estado dos pedidos, para economizar tempo ao transformar solicitações em pedidos e apontar faltas de materiais em projetos                                                  | 8          | 1      |
+| 3    | Alta       | [[US-7]] - Como gestor gostaria de uma pagina que mostrasse todos os programas e projetos centralizados podendo filtrar por programa e pesquisar um determinado projeto, para economizar tempo ao tentar navegar o programa | 5          | 2      |
+| 4    | Alta       | [[US-8]] - Como gestor quero acompanhar solicitações feitas em cada projeto, para economizar tempo e esforço para entender a demanda de materiais para cada projeto                                                         | 5          | 2      |
+| 5    | Alta       | [[US-9]] - Como gestor quero visualizar os gastos em pedidos feitos em cada projeto, para economizar tempo e esforço para entender os gastos em materiais de cada projeto                                                   | 5          | 2      |
+| 6    | Alta       | [[US-3]] - Como gestor quero ver dados do estoque de materiais de cada projeto, para economizar tempo e esforço na hora de checar o estoque de materiais comprados e se há registros inconsistentes (Materiais faltando)    | 8          | 2      |
+| 7    | Media      | [[US-4]] - Como gestor gostaria de ver dados de fornecedores, para ajudar no planejamento de tempo de espera para chegar do material e economizar e dinheiro escolhendo um fornecedor confiável com valores mais baixos.    | 8          | 3      |
+| 8    | Media      | [[US-6]] - Como gestor gostaria de importar dados de planilhas CSV sobre projetos novos, para economizar tempo e esforço da equipe ao inserir estes dados                                                                   | 3          | 3      |
+| 9    | Baixa      | [[US-10]] - Como gestor quero poder entrar no produto com minha conta de usuário, para receber apenas informações relevantes do meu setor sobre os projetos                                                                 | 5          | 3      |
+| 10   | Baixa      | [[US-5]] - Como gestor gostaria de ver o estado das tarefas do projeto, afim de entender o estado e andamento de cada projeto facilmente, economizando tempo pesquisando e consultando outros colaboradores                 | 8          | 3      |
 
 ---
 
@@ -77,66 +85,19 @@ We decided to build a web application to centralize, transform, and organize all
 
 ---
 
-### 1️⃣ Sprint 1
-
-## 🎯 Sprint Goals
-
-|Estimated team capacity per sprint|30|
-|---|---|
-|Sprint Goal|User Stories: US-1 and US-2 (26 Story Points)|
-|Sprint Forecast (extras)|US-7 (3 Story Points)|
+### [1️⃣ Sprint 1 - Backlog](/docs/project/Sprints/Sprint%201/Sprint_1.md)
 
 ---
 
-## Backlog
+### [2️⃣ Sprint 2 - Backlog](/docs/project/Sprints/Sprint%202/Sprint_2.md)
 
-|Rank|Priority|User Story|Estimate|Sprint|Requirements|
-|---|---|---|---|---|---|
-|**1**|**High**<br><br>  <br><br>(**_GOAL_**)|**US-1 - As a manager, I want to see total project costs (material expenses and hours worked) to save time researching and calculating costs for each project.** (**_GOAL_**)|13|**1**|RF-2<br><br>  <br><br>RF-6|
-|2|High|US-2 - As a manager, I would like to see purchasing data (request, order, receipt) for each project to save time in identifying late materials and amounts spent.|13|1|RF-7<br><br>  <br><br>RF-8<br><br>  <br><br>RF-10|
 
 ---
 
-### 2️⃣ Sprint 2
+### [3️⃣ Sprint 3 - Backlog](/docs/project/Sprints/Sprint%203/Sprint_3.md)
 
-## 🎯 Sprint 2 Goals
 
-|Estimated team capacity per sprint|30|
-|---|---|
-|Sprint Goal|User Stories: US-3 and US-4 (19 Story Points)|
-|Sprint Forecast (extras)|User Story 5 (5 Story Points)|
-
----
-
-## Backlog
-
-|Rank|Priority|User Story|Estimate|Sprint|Requirements|
-|---|---|---|---|---|---|
-|**3**|**High (_GOAL_)**|**US-7 - As a manager, I would like a page that displays all centralized programs and projects, allowing filtering by program and searching for a specific project to save time when navigating the program (GOAL).**|**3**|**2**|RF-3<br><br>  <br><br>RF-4<br><br>  <br><br>RF-5|
-|**3**|High<br><br>  <br><br>(_GOAL_)|**US-3 - As a manager, I want to see the material inventory data for each project to save time and effort when checking the stock for material purchases and if there is a shortage of materials (_GOAL_).**|**13***|**2**|RF-9|
-|4|Medium|US-4 - As a manager, I would like to see supplier data to help plan lead times and save time and money by choosing a supplier that sells at a lower price.|13*|2|RF-13|
-
----
-
-### 3️⃣ Sprint 3
-
-## 🎯 Sprint 3 Goals
-
-|Estimated team capacity per sprint|30|
-|---|---|
-|Sprint Goal|User Stories: US-8 and US-5 (13 Story Points)|
-|Sprint Forecast (extras)||
-
----
-
-## Backlog
-
-|Rank|Priority|User Story|Estimate|Sprint|Requirements|
-|---|---|---|---|---|---|
-|**5**|**Medium (_GOAL_)**|**US-8 - As a manager, I would like to import data from CSV spreadsheets about new projects to save time and team effort when entering this data.**|**5***|**3**|RF-1<br><br>  <br><br>RF-14|
-|6|Low|US-5 - As a manager, I would like to see the status of project tasks to easily understand the state and progress of each project, saving time spent researching and consulting other team members (**_GOAL_**).|8*|3|RF-11<br><br>  <br><br>RF-12|
-
-[→ Back to top](https://www.google.com/search?q=%23synthesi)
+[→ Back to top]((#synthesi))
 
 ## 🛠️ Technologies
 
@@ -146,7 +107,7 @@ The following tools, languages, libraries, and technologies were used in the pro
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/) 
 [![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) 
-[![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+[![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)]
 [![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://github.com/eslint/eslint)
 
 ### Backend
@@ -162,7 +123,7 @@ The following tools, languages, libraries, and technologies were used in the pro
 ![MaterialUI](https://img.shields.io/badge/Material%20UI-%23FFFFFF?style=for-the-badge&logo=MUI&logoColor=#007FFF)
 
 
-[→ Back to top](https://www.google.com/search?q=%23synthesi)
+[→ Back to top]((#synthesi))
 
 ## 👥 Team
 
@@ -172,9 +133,9 @@ The following tools, languages, libraries, and technologies were used in the pro
 | ![daniel](https://github.com/user-attachments/assets/6cb4f0c1-0bef-43ff-8e57-e633f145dbdf)              | Scrum Master  | Daniel Sendreti Broder       | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielbroder)                    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/d-broder)            |
 | ![caina](https://github.com/user-attachments/assets/a6f52b8c-11c7-4f20-9647-004cd04c60bc)               | Developer     | Cainã Nascimento Melo        | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cain%C3%A3-melo/)                [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CainaNascimentoMelo) |
 | ![enzo](https://github.com/user-attachments/assets/f228df2a-1bae-408d-9d39-d5808bea56bc)                | Developer     | Enzo Lemos Franco            | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-lemos-franco-002651293/)  <br>[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnzoLFranco)       |
-| ![elbert](https://github.com/user-attachments/assets/a8f976c3-c1cb-4297-bdda-15ea4da1d94b)   | Developer     | Elbert Jean       | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()      [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()      |
+| ![elbert](https://github.com/user-attachments/assets/a8f976c3-c1cb-4297-bdda-15ea4da1d94b)   | Developer     | Elbert Jean       | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elbertjean)      [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElbertJean)      |
 | ![gabriel vasconcelos](https://github.com/user-attachments/assets/0ac1090d-15b5-44a9-b68c-79e890a1783d) | Developer     | Gabriel Vasconcelos Ferreira | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vasconcelos-255979262)<br>[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielvascf)       |
 | ![gabriel carvalho](https://github.com/user-attachments/assets/20a93e32-fdf9-4bbe-b798-08a1985c5db6)    | Developer     | Gabriel Carvalho Silva       | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-carvalho-87569336a)      [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriecarvalho)      |
 | ![gloria](https://github.com/user-attachments/assets/2de16de0-fd28-4700-b5b5-a00702dfce10)              | Developer     | Glória Brito                 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gloriafbrito/)                   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GloBrito)            |
 
-[→ Back to top](https://www.google.com/search?q=%23synthesi)
+[→ Back to top](#synthesi)
