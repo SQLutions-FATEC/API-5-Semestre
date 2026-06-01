@@ -14,17 +14,17 @@ Esta documentação apresenta a arquitetura e estrutura do Data Warehouse (DW) u
 ### Camada de Origem (Source)
 - Arquivos CSV
 
-### Camada de Integração (Integration)
+### [Camada de Integração (Integration)](https://github.com/SQLutions-FATEC/API-5-Semestre-Backend/blob/develop-2/django/etl/etl-process.md)
 - ETL (Extract, Transform, Load)
 - Data cleaning e validação
 - Staging area
 
-### Camada de Armazenamento (Storage)
+### [Camada de Armazenamento (Storage)](#estrutura-geral)
 - Fact tables
 - Dimension tables
 - Data marts
 
-### Camada de Apresentação (Presentation)
+### [Camada de Apresentação (Presentation)](https://www.figma.com/design/u3QKKVbSpJ0DM1n7OUsatr/API-5-Semestre?node-id=0-1&p=f&t=seEZ2IooBx7pUbcg-0)
 - Business Intelligence
 - Relatórios analíticos
 - Dashboards
