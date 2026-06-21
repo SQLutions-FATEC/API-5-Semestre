@@ -1,16 +1,16 @@
 # Sumario
 
-## [Modelo Estrela](/docs/modules/APIDW.png)
+## [Modelo Estrela](/docs/product/DataWare%20House/APIDW.png)
 
 ---
 
-## [Code quality](/docs/modules/code-quality.md)
+## [Code quality](https://github.com/SQLutions-FATEC/API-5-Semestre/wiki/Processo-%E2%80%90-Code-Quality)
 
 ---
 
-## [Data Warehouse Documentation](/docs/modules/data-warehouse.md)
-- [ETL](https://github.com/SQLutions-FATEC/API-5-Semestre-Backend/blob/develop-2/django/etl/etl-process.md)
-- [Tabelas Fato e Dimensões](/docs/modules/data-warehouse.md/#estrutura-geral)
+## [Data Warehouse Documentation](/docs/product/DataWare%20House/data-warehouse.md)
+- [ETL](https://github.com/SQLutions-FATEC/API-5-Semestre-Backend/blob/main/django/etl/etl-process.md)
+- [Tabelas Fato e Dimensões](/docs/product/DataWare%20House/data-warehouse.md/#estrutura-geral)
 - [Figma Wireframe](https://www.figma.com/design/u3QKKVbSpJ0DM1n7OUsatr/API-5-Semestre?node-id=0-1&p=f&t=seEZ2IooBx7pUbcg-0)
 
 ---
