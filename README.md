@@ -89,15 +89,25 @@ Our project offers:
 
 ### [1️⃣ Sprint 1 - Backlog](/docs/project/Sprints/Sprint%201/Sprint_1.md)
 
+https://github.com/user-attachments/assets/04bb218b-1bb7-4060-8e01-0157380aebf3
+
+### [Youtube video](https://youtu.be/ofFB88_Qugc)
+
 ---
 
 ### [2️⃣ Sprint 2 - Backlog](/docs/project/Sprints/Sprint%202/Sprint_2.md)
 
+https://github.com/user-attachments/assets/92b56cf1-3c2c-42b0-a23f-10bf1393b049
+
+### [Youtube video](https://youtu.be/ey82uwWGWds)
 
 ---
 
 ### [3️⃣ Sprint 3 - Backlog](/docs/project/Sprints/Sprint%203/Sprint_3.md)
 
+https://github.com/user-attachments/assets/db737f5b-1d18-485d-9690-d69d75936c9a
+
+### [Youtube video](https://youtu.be/ai7bGPwm_IE)
 
 [→ Back to top]((#synthesi))
 
