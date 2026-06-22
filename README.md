@@ -66,19 +66,18 @@ Along with a page to see project inventory and if the stock meets demands of oth
 ---
 
 
-| Rank | Priodidade | User Story                                                                                                                                                                                                                  | Estimativa | Sprint |
-| ---- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ |
-| 1    | Alta       | [[US-1]] - Como gestor quero ver os gastos totais com o projeto (Gastos com materiais e horas trabalhadas), para economizar tempo pesquisando e calculando os custos de cada projeto                                        | 13         | 1      |
-| 2    | Alta       | [[US-2]] - Como gestor gostaria de acompanhar o estado dos pedidos, para economizar tempo ao transformar solicitações em pedidos e apontar faltas de materiais em projetos                                                  | 8          | 1      |
-| 3    | Alta       | [[US-7]] - Como gestor gostaria de uma pagina que mostrasse todos os programas e projetos centralizados podendo filtrar por programa e pesquisar um determinado projeto, para economizar tempo ao tentar navegar o programa | 5          | 2      |
-| 4    | Alta       | [[US-8]] - Como gestor quero acompanhar solicitações feitas em cada projeto, para economizar tempo e esforço para entender a demanda de materiais para cada projeto                                                         | 5          | 2      |
-| 5    | Alta       | [[US-9]] - Como gestor quero visualizar os gastos em pedidos feitos em cada projeto, para economizar tempo e esforço para entender os gastos em materiais de cada projeto                                                   | 5          | 2      |
-| 6    | Alta       | [[US-3]] - Como gestor quero ver dados do estoque de materiais de cada projeto, para economizar tempo e esforço na hora de checar o estoque de materiais comprados e se há registros inconsistentes (Materiais faltando)    | 8          | 2      |
-| 7    | Media      | [[US-4]] - Como gestor gostaria de ver dados de fornecedores, para ajudar no planejamento de tempo de espera para chegar do material e economizar e dinheiro escolhendo um fornecedor confiável com valores mais baixos.    | 8          | 3      |
-| 8    | Media      | [[US-6]] - Como gestor gostaria de importar dados de planilhas CSV sobre projetos novos, para economizar tempo e esforço da equipe ao inserir estes dados                                                                   | 3          | 3      |
-| 9    | Baixa      | [[US-10]] - Como gestor quero poder entrar no produto com minha conta de usuário, para receber apenas informações relevantes do meu setor sobre os projetos                                                                 | 5          | 3      |
-| 10   | Baixa      | [[US-5]] - Como gestor gostaria de ver o estado das tarefas do projeto, afim de entender o estado e andamento de cada projeto facilmente, economizando tempo pesquisando e consultando outros colaboradores                 | 8          | 3      |
 
+|Rank|Priority|User Story|Estimate|Sprint|Functional Requisite|
+|---|---|---|---|---|---|
+|1|High|[[US-1]] - As a manager, I want to see the total project expenditures (material costs and hours worked), so that I can save time searching for and calculating the costs of each project.|13|1|RF-2, RF-6|
+|2|High|[[US-2]] - As a manager, I would like to track the status of orders, so that I can save time when converting requests into orders and identify material shortages in projects.|8|1|RF-7,RF-8,RF-10|
+|3|High|[[US-7]] - As a manager, I would like a page that shows all programs and projects centralized, with the ability to filter by program and search for a specific project, so that I can save time when trying to navigate the program.|5|2|RF-3, RF-4, RF-5|
+|4|High|[[US-8]] - As a manager, I want to track requests made in each project, so that I can save time and effort in understanding the material demand for each project.|5|2|RF-7, RF-10|
+|5|High|[[US-9]] - As a manager, I want to visualize the expenditures on orders made in each project, so that I can save time and effort in understanding the material expenses of each project.|5|2|RF-6, RF-7|
+|6|High|[[US-3]] - As a manager, I want to see material stock data for each project, so that I can save time and effort when checking the inventory of purchased materials and identifying if there are inconsistent records (missing materials).|8|2|RF-9|
+|7|Medium|[[US-4]] - As a manager, I would like to see supplier data, so that I can help plan lead times for material delivery and save money by choosing a reliable supplier with lower prices.|8|3|RF-12|
+|8|Medium|[[US-6]] - As a manager, I would like to import data from CSV spreadsheets about new projects, so that I can save the team time and effort when inserting this data.|3|3|RF-1, RF-13|
+|9|Low|[[US-10]] - As a manager, I want to be able to log into the product with my user account, so that I receive only relevant information from my department regarding the projects.|5|3|RF-14|
 ---
 
 ### 📌 Sprint Backlog
