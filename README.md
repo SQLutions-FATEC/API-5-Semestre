@@ -23,9 +23,11 @@ The client reported that a large amount of data regarding program projects. this
 ---
 
 We decided to build a web application to centralize, transform, and organize all project data using Data Warehouse strategies.
-Our project involves, a intuitive project and program selector, general view of the project with information about a variety of sectors, like materials used in the project, total cost and tasks.
-We also offer a way to acompany any purchases or solicitations to purchase materials made towards the project.
-Along with a page to see project inventory and if the stock meets demands of other material orders.
+Our project offers:
+- A intuitive project and program selector, general view of the project with information about a variety of sectors, like materials used in the project, total cost and tasks.
+- We also offer a way to acompany any purchases or solicitations to purchase materials made towards the project.
+- Along with a page to see project inventory and if the stock meets demands of other material orders.
+- A page with all supplier information, you can search for suppliers with a variety of filters and see all the trades made with them.
 
 
 ### 🏁 Sprint Deliverables
@@ -34,7 +36,8 @@ Along with a page to see project inventory and if the stock meets demands of oth
 |---|---|---|---|
 |01|03/16/2025 to 04/05/2025|Completed Stage|Complete|
 |02|04/23/2025 to 05/03/2025|Completed Stage|Complete|
-|03|05/11/2025 to 05/31/2025|Future Stage|Planning|
+|03|05/11/2025 to 05/31/2025|Completed Stage|Complete|
+|04|06/01/2025 to 06/24/2025|Current Stage|On Going|
 
 [→ Back to top](#synthesi)
 
