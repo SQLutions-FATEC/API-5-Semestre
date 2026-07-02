@@ -23,9 +23,11 @@ The client reported that a large amount of data regarding program projects. this
 ---
 
 We decided to build a web application to centralize, transform, and organize all project data using Data Warehouse strategies.
-Our project involves, a intuitive project and program selector, general view of the project with information about a variety of sectors, like materials used in the project, total cost and tasks.
-We also offer a way to acompany any purchases or solicitations to purchase materials made towards the project.
-Along with a page to see project inventory and if the stock meets demands of other material orders.
+Our project offers:
+- A intuitive project and program selector, general view of the project with information about a variety of sectors, like materials used in the project, total cost and tasks.
+- We also offer a way to acompany any purchases or solicitations to purchase materials made towards the project.
+- Along with a page to see project inventory and if the stock meets demands of other material orders.
+- A page with all supplier information, you can search for suppliers with a variety of filters and see all the trades made with them.
 
 
 ### 🏁 Sprint Deliverables
@@ -34,7 +36,8 @@ Along with a page to see project inventory and if the stock meets demands of oth
 |---|---|---|---|
 |01|03/16/2025 to 04/05/2025|Completed Stage|Complete|
 |02|04/23/2025 to 05/03/2025|Completed Stage|Complete|
-|03|05/11/2025 to 05/31/2025|Future Stage|Planning|
+|03|05/11/2025 to 05/31/2025|Completed Stage|Complete|
+|04|06/01/2025 to 06/24/2025|Current Stage|On Going|
 
 [→ Back to top](#synthesi)
 
@@ -66,19 +69,18 @@ Along with a page to see project inventory and if the stock meets demands of oth
 ---
 
 
-| Rank | Priodidade | User Story                                                                                                                                                                                                                  | Estimativa | Sprint |
-| ---- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ |
-| 1    | Alta       | [[US-1]] - Como gestor quero ver os gastos totais com o projeto (Gastos com materiais e horas trabalhadas), para economizar tempo pesquisando e calculando os custos de cada projeto                                        | 13         | 1      |
-| 2    | Alta       | [[US-2]] - Como gestor gostaria de acompanhar o estado dos pedidos, para economizar tempo ao transformar solicitações em pedidos e apontar faltas de materiais em projetos                                                  | 8          | 1      |
-| 3    | Alta       | [[US-7]] - Como gestor gostaria de uma pagina que mostrasse todos os programas e projetos centralizados podendo filtrar por programa e pesquisar um determinado projeto, para economizar tempo ao tentar navegar o programa | 5          | 2      |
-| 4    | Alta       | [[US-8]] - Como gestor quero acompanhar solicitações feitas em cada projeto, para economizar tempo e esforço para entender a demanda de materiais para cada projeto                                                         | 5          | 2      |
-| 5    | Alta       | [[US-9]] - Como gestor quero visualizar os gastos em pedidos feitos em cada projeto, para economizar tempo e esforço para entender os gastos em materiais de cada projeto                                                   | 5          | 2      |
-| 6    | Alta       | [[US-3]] - Como gestor quero ver dados do estoque de materiais de cada projeto, para economizar tempo e esforço na hora de checar o estoque de materiais comprados e se há registros inconsistentes (Materiais faltando)    | 8          | 2      |
-| 7    | Media      | [[US-4]] - Como gestor gostaria de ver dados de fornecedores, para ajudar no planejamento de tempo de espera para chegar do material e economizar e dinheiro escolhendo um fornecedor confiável com valores mais baixos.    | 8          | 3      |
-| 8    | Media      | [[US-6]] - Como gestor gostaria de importar dados de planilhas CSV sobre projetos novos, para economizar tempo e esforço da equipe ao inserir estes dados                                                                   | 3          | 3      |
-| 9    | Baixa      | [[US-10]] - Como gestor quero poder entrar no produto com minha conta de usuário, para receber apenas informações relevantes do meu setor sobre os projetos                                                                 | 5          | 3      |
-| 10   | Baixa      | [[US-5]] - Como gestor gostaria de ver o estado das tarefas do projeto, afim de entender o estado e andamento de cada projeto facilmente, economizando tempo pesquisando e consultando outros colaboradores                 | 8          | 3      |
 
+|Rank|Priority|User Story|Estimate|Sprint|Functional Requisite|
+|---|---|---|---|---|---|
+|1|High|[[US-1]] - As a manager, I want to see the total project expenditures (material costs and hours worked), so that I can save time searching for and calculating the costs of each project.|13|1|RF-2, RF-6|
+|2|High|[[US-2]] - As a manager, I would like to track the status of orders, so that I can save time when converting requests into orders and identify material shortages in projects.|8|1|RF-7,RF-8,RF-10|
+|3|High|[[US-7]] - As a manager, I would like a page that shows all programs and projects centralized, with the ability to filter by program and search for a specific project, so that I can save time when trying to navigate the program.|5|2|RF-3, RF-4, RF-5|
+|4|High|[[US-8]] - As a manager, I want to track requests made in each project, so that I can save time and effort in understanding the material demand for each project.|5|2|RF-7, RF-10|
+|5|High|[[US-9]] - As a manager, I want to visualize the expenditures on orders made in each project, so that I can save time and effort in understanding the material expenses of each project.|5|2|RF-6, RF-7|
+|6|High|[[US-3]] - As a manager, I want to see material stock data for each project, so that I can save time and effort when checking the inventory of purchased materials and identifying if there are inconsistent records (missing materials).|8|2|RF-9|
+|7|Medium|[[US-4]] - As a manager, I would like to see supplier data, so that I can help plan lead times for material delivery and save money by choosing a reliable supplier with lower prices.|8|3|RF-12|
+|8|Medium|[[US-6]] - As a manager, I would like to import data from CSV spreadsheets about new projects, so that I can save the team time and effort when inserting this data.|3|3|RF-1, RF-13|
+|9|Low|[[US-10]] - As a manager, I want to be able to log into the product with my user account, so that I receive only relevant information from my department regarding the projects.|5|3|RF-14|
 ---
 
 ### 📌 Sprint Backlog
@@ -87,15 +89,25 @@ Along with a page to see project inventory and if the stock meets demands of oth
 
 ### [1️⃣ Sprint 1 - Backlog](/docs/project/Sprints/Sprint%201/Sprint_1.md)
 
+https://github.com/user-attachments/assets/04bb218b-1bb7-4060-8e01-0157380aebf3
+
+### [Youtube video](https://youtu.be/ofFB88_Qugc)
+
 ---
 
 ### [2️⃣ Sprint 2 - Backlog](/docs/project/Sprints/Sprint%202/Sprint_2.md)
 
+https://github.com/user-attachments/assets/92b56cf1-3c2c-42b0-a23f-10bf1393b049
+
+### [Youtube video](https://youtu.be/ey82uwWGWds)
 
 ---
 
 ### [3️⃣ Sprint 3 - Backlog](/docs/project/Sprints/Sprint%203/Sprint_3.md)
 
+https://github.com/user-attachments/assets/db737f5b-1d18-485d-9690-d69d75936c9a
+
+### [Youtube video](https://youtu.be/ai7bGPwm_IE)
 
 [→ Back to top]((#synthesi))
 
@@ -103,18 +115,26 @@ Along with a page to see project inventory and if the stock meets demands of oth
 
 The following tools, languages, libraries, and technologies were used in the project's construction:
 
+[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario) 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/) 
 [![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) 
-[![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)]
+[![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)](https://prettier.io/)
 [![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://github.com/eslint/eslint)
+[![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)](https://prometheus.io/)
+[![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)](https://www.sonarsource.com/products/sonarqube/)
 
 ### Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)](https://docs.pytest.org)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
+[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) 
+[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
+[![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)](https://gunicorn.org/)
+
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
